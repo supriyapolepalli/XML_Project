@@ -9,3 +9,7 @@ In today's health-conscious world, a recipe recommendation system can be an inva
 - Nutritional Insights: Each recipe will include detailed nutritional information, helping users make informed choices about their meals and understand their dietary impact.
 - Personalized Recommendations: Leveraging user preferences and dietary goals, the system will provide tailored recipe suggestions that align with individual health objectives.
 - User Reviews and Ratings: Community engagement will be encouraged through user-generated reviews and ratings, allowing others to gauge the popularity and effectiveness of each recipe.
+
+
+## Logo
+![NutrifyMe](https://github.com/supriyapolepalli/XML_Project/blob/main/WhatsApp%20Image%202024-11-03%20at%2018.14.42.jpeg)
