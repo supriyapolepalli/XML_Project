@@ -17,7 +17,7 @@ In today's health-conscious world, a recipe recommendation system can be an inva
 
 ## Data Feeds
 **Youtube API** : [To incorporate engaging video content related to recipes, cooking techniques, and nutritional insights providing visual guidance for meal preparation.](https://developers.google.com/youtube/v3)
-**Spoonacular API** :[To access recipes and nutritional information for enhanced meal planning.](https://wger.de/en/software/api)
+**Spoonacular API**:[To access recipes and nutritional information for enhanced meal planning.](https://wger.de/en/software/api)
 
 
 ## Functional Requirements
